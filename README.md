@@ -20,7 +20,7 @@ Tenho foco na criação de interfaces modernas, responsivas e intuitivas, utiliz
   
 </div>
 🚀 Tecnologias
-HTML • CSS • JavaScript • Bootstrap  • MySql  • Materialize • XAMPP • Git • Figma • Framer • Eclipse • NetBeans • Android Studio • React
+HTML • CSS • JavaScript • Bootstrap  • MySql  • Materialize • XAMPP • Git • Figma • Framer • Eclipse • NetBeans • Android Studio • React • Vercel
 
 🎯 Objetivo
 Atuar como Desenvolvedor Front-End, contribuindo com soluções criativas e eficientes para projetos digitais.
